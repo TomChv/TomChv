@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi folks
 
-<!--
-**TomChv/TomChv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tom, french developer with an unlimited curiosity, passionate by software, devops, and many other things 📘<br>
+Currently working at [Dagger](https://github.com/dagger/dagger), I'm also developping things on my own (feel free to check my repositories to see more).
 
-Here are some ideas to get you started:
+**Some facts about me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning :
+  - JSON RPC 2.0
+  - Concurrency 
+  - Software architecture principle
+- 👯 I’m looking to collaborate on:
+  - [Dagger](https://github.com/dagger/dagger) :rocket:  
+  - [Buildkit](https://github.com/moby/buildkit) 
+
+📫 How to reach me: tom.chauveau.pro@icloud.com.<br>
+I love Open Source and contribution so don't hesitate to reach me if you need help on something cool ⚡
+
+**Stats**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomChv&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TomChv)
