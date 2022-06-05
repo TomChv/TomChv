@@ -6,9 +6,9 @@ Currently working at [Dagger](https://github.com/dagger/dagger), I'm also develo
 **Some facts about me**
 
 - 🌱 I’m currently learning :
-  - JSON RPC 2.0
-  - Concurrency 
-  - Software architecture principle
+  - Ethereum
+  - Rust 
+  - LSP
 - 👯 I’m looking to collaborate on:
   - [Dagger](https://github.com/dagger/dagger) :rocket:  
   - [Buildkit](https://github.com/moby/buildkit) 
