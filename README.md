@@ -9,6 +9,7 @@ Currently working at [Dagger](https://github.com/dagger/dagger), I'm also develo
   - Ethereum
   - Rust 
   - LSP
+  - HPC & Apache Arrow
 - 👯 I’m looking to collaborate on:
   - [Dagger](https://github.com/dagger/dagger) :rocket:  
   - [Buildkit](https://github.com/moby/buildkit) 
