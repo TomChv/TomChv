@@ -1,21 +1,21 @@
-### Hi folks
+### Welcome to my profile :wave:
 
 I'm Tom, french developer with an unlimited curiosity, passionate by software, devops, and many other things 📘<br>
-Currently working at [Dagger](https://github.com/dagger/dagger), I'm also developping things on my own (feel free to check my repositories to see more).
+Currently working at [Dagger](https://github.com/dagger/dagger), I'm also working on Open Source project.
 
-**Some facts about me**
-
-- 🌱 I’m currently learning :
+I love learning new things, right now, I'm on:
   - Ethereum
   - Rust 
   - LSP
   - HPC & Apache Arrow
-- 👯 I’m looking to collaborate on:
+
+
+
+Currently contributing on:
   - [Dagger](https://github.com/dagger/dagger) :rocket:  
   - [Buildkit](https://github.com/moby/buildkit) 
 
 📫 How to reach me: tom.chauveau.pro@icloud.com.<br>
-I love Open Source and contribution so don't hesitate to reach me if you need help on something cool ⚡
 
 **Stats**
 
