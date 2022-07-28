@@ -10,12 +10,13 @@ I love learning new things, right now, I'm on:
   - HPC & Apache Arrow
 
 
-
 Currently contributing on:
   - [Dagger](https://github.com/dagger/dagger) :rocket:  
   - [Buildkit](https://github.com/moby/buildkit) 
 
 📫 How to reach me: tom.chauveau.pro@icloud.com.<br>
+
+I'm in San Francisco for a year, text me if you wanna meet :wave:
 
 **Stats**
 
