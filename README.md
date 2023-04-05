@@ -1,13 +1,12 @@
 ### Welcome to my profile :wave:
 
 I'm Tom, french developer with an unlimited curiosity, passionate by software, devops, and many other things 📘<br>
-Currently working at [Dagger](https://github.com/dagger/dagger), I'm also working on Open Source project.
+Currently working at [Dagger](https://github.com/dagger/dagger), I'm also working on Open Source project in [Quartz](https://github.com/quartz-technology).
 
 I love learning new things, right now, I'm on:
-  - Ethereum
-  - Rust 
-  - LSP
-  - HPC & Apache Arrow
+  - CI/CD
+  - Cryptography
+  - Writing cool blogpost
 
 
 Currently contributing on:
