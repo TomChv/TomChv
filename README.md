@@ -15,8 +15,6 @@ Currently contributing on:
 
 📫 How to reach me: tom@quartz.technology.<br>
 
-I'm in San Francisco for a year, text me if you wanna meet :wave:
-
 **Stats**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomChv&show_icons=true)
